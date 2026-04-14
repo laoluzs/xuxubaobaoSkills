@@ -63,7 +63,8 @@ xuxubaby-style-distiller/
     ├── short-video-templates.md
     ├── slice-title-templates.md
     ├── source-notes.md
-    └── analysis-example.md
+    ├── analysis-example.md
+    └── video-sample-analysis.md
 ```
 
 ## 建议阅读顺序
@@ -72,9 +73,10 @@ xuxubaby-style-distiller/
 1. `README.md`：先看 skill 的目标和适用场景
 2. `SKILL.md`：看默认输出框架和调用方式
 3. `references/source-notes.md`：先看公开资料证据底稿
-4. `references/analysis-example.md`：直接看完整分析成品长什么样
-5. `references/style-dimensions.md`：补充更细的拆解维度
-6. 其他模板文件：按需求拿去复用
+4. `references/analysis-example.md`：看基于公开资料的完整分析示例
+5. `references/video-sample-analysis.md`：看基于 B 站公开视频样本的人物蒸馏示例
+6. `references/style-dimensions.md`：补充更细的拆解维度
+7. 其他模板文件：按需求拿去复用
 
 ## 输出特点
 
@@ -95,6 +97,7 @@ xuxubaby-style-distiller/
 - 切片标题模板
 - 一份完整分析示例
 - 一份公开资料证据底稿
+- 一份基于 B 站公开视频样本的人物蒸馏示例
 
 ## 适合搭配的产出
 
