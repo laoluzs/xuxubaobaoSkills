@@ -43,7 +43,11 @@ xuxubaby-style-distiller/
 ├── README.md
 └── references/
     ├── style-dimensions.md
-    └── output-templates.md
+    ├── output-templates.md
+    ├── examples.md
+    ├── imitation-prompts.md
+    ├── short-video-templates.md
+    └── slice-title-templates.md
 ```
 
 ## 输出特点
@@ -61,3 +65,5 @@ xuxubaby-style-distiller/
 - 口播模仿脚本
 - 切片标题和文案模板
 - 短视频人设参考稿
+- 风格迁移提示词
+- 主播拆解模板

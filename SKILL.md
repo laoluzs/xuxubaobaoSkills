@@ -14,7 +14,7 @@ description: Distill and analyze the livestream style, speaking rhythm, emotiona
 
 ## 核心任务
 
-围绕下面 8 个维度做拆解：
+围绕下面 10 个维度做拆解：
 1. 人设定位
 2. 语言风格
 3. 情绪曲线
@@ -23,6 +23,8 @@ description: Distill and analyze the livestream style, speaking rhythm, emotiona
 6. 节奏控制
 7. 内容结构
 8. 可复用模板
+9. 模仿边界
+10. 短视频转译能力
 
 ## 默认输出结构
 
@@ -128,6 +130,23 @@ description: Distill and analyze the livestream style, speaking rhythm, emotiona
 - 吐槽模板
 - 反问模板
 - 弹幕互动模板
+
+### 9. 模仿边界
+明确区分：
+- 能学的是：节奏、结构、互动方式、情绪推进、包袱设计
+- 不能硬抄的是：原话、口头禅堆砌、无脑大吼、单纯模仿表面语气
+
+默认提醒用户：
+- 学旭旭宝宝，重点是学“情绪调度 + 熟人感 + 节奏推进”
+- 不是学几个词，也不是学嗓门
+
+### 10. 短视频转译能力
+如果用户目标是短视频，要把直播风格转译成短视频语言，至少输出：
+- 3秒开头怎么抓人
+- 中段怎么保留情绪推进
+- 爆点句怎么设计
+- 结尾怎么留记忆点
+- 哪些直播表达适合切片，哪些不适合
 
 ## 有素材时怎么做
 
