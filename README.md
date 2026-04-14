@@ -64,7 +64,8 @@ xuxubaby-style-distiller/
     ├── slice-title-templates.md
     ├── source-notes.md
     ├── analysis-example.md
-    └── video-sample-analysis.md
+    ├── video-sample-analysis.md
+    └── video-comment-speech-distillation.md
 ```
 
 ## 建议阅读顺序
@@ -75,8 +76,9 @@ xuxubaby-style-distiller/
 3. `references/source-notes.md`：先看公开资料证据底稿
 4. `references/analysis-example.md`：看基于公开资料的完整分析示例
 5. `references/video-sample-analysis.md`：看基于 B 站公开视频样本的人物蒸馏示例
-6. `references/style-dimensions.md`：补充更细的拆解维度
-7. 其他模板文件：按需求拿去复用
+6. `references/video-comment-speech-distillation.md`：看基于视频样本 + 弹幕评论 + 粗转写的话术节奏级蒸馏
+7. `references/style-dimensions.md`：补充更细的拆解维度
+8. 其他模板文件：按需求拿去复用
 
 ## 输出特点
 
@@ -98,6 +100,7 @@ xuxubaby-style-distiller/
 - 一份完整分析示例
 - 一份公开资料证据底稿
 - 一份基于 B 站公开视频样本的人物蒸馏示例
+- 一份基于视频样本 + 弹幕评论 + 粗转写的互动/话术蒸馏文档
 
 ## 适合搭配的产出
 
