@@ -168,7 +168,7 @@ description: Distill and analyze the livestream style, speaking rhythm, emotiona
 4. 按“人设/语言/互动/节奏”分类
 
 ### C. 用户只问“分析他的风格”
-直接按默认 8 维结构输出。
+直接按默认 10 维结构输出；如果没有原始素材，就优先走“公开资料版分析 + 边界说明”。
 
 ## 输出要求
 
@@ -184,9 +184,23 @@ description: Distill and analyze the livestream style, speaking rhythm, emotiona
 - 不要忽略节奏和互动
 - 不要只分析内容，不分析表达方式
 
+## 证据与边界
+
+当用户没有提供直播录屏、切片或转写稿时：
+- 可以先基于公开资料做中高层分析
+- 明确哪些结论来自公开资料，哪些只是推断
+- 避免伪装成“逐帧看过大量原始素材”
+
+默认建议：
+- 先用 `references/source-notes.md` 作为公开资料底稿
+- 再参考 `references/analysis-example.md` 输出一份带边界感的分析
+- 如果用户后续补素材，再升级为片段级拆解
+
 ## 需要更细时
 
 需要更细拆法时，再读：
+- `references/source-notes.md`：公开资料证据底稿
+- `references/analysis-example.md`：完整分析示例
 - `references/style-dimensions.md`：更细的主播风格拆解维度
 - `references/output-templates.md`：适合直接产出脚本/模仿文案/复盘报告的模板
 - `references/examples.md`：触发语句和常见使用场景示例
